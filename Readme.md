@@ -11,6 +11,33 @@ C#
 
 ASP.Net
 
+## Getting Started
+
+Clone this repository to your local machine.
+```
+$ git clone 
+```
+Once downloaded, cd into the ```Lab01-Exception-Handling``` directory.
+```
+$ cd Lab01-Exception-Handling
+```
+The cd into ```Lab01-phil``` directory.
+```
+$ cd Lab01-phil
+```
+The cd into the second ```Lab01-phil``` directory.
+```
+$ cd Lab01-phil
+```
+Then run .NET build.
+```
+$ dotnet build
+```
+Once that is complete, run the program.
+```
+$ dotnet run
+```
+
 ## Codez
 Here is what the code looks like!
 ### main
