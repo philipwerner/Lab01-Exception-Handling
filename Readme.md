@@ -1,45 +1,30 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 1 : About Me Quiz
-=====================================
+# Lab01 Phil Werner
 
-## To Submit this Assignment
+## Tools Used
+Microsoft Visual Studio Community Version 15.5.7
 
-- fork this repository
-- create a new branch named `lab01-`; + `<your name>` **e.g.** `lab01-amanda`
-- write your code
-- push to your repository
-- submit a pull request to this repository
-- submit a link to your PR in canvas
-- Include a Readme.md (contents described below)
+C#
 
-## Directions
+ASP.Net
 
-- Create an "About Me" quiz in a console application with VS2017
-- Your solution should include the following:
-    - Main method
-	- external methods- (at least 3 non-void return types)
-	- 5 different questions
-	- Exception Handling (try/catch/finally)
-	- Are you able to incorprate a `throw` somehow? 
+## Codez
+### main
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/main.jpg)
 
-### Stretch
+### Question 1
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q1.jpg)
 
-- Track number of correct/incorrect questions 
-      - Show the user the number of correct/incorrect to user after quiz is over
+### Question 2
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q2.png)
 
-## ReadMe
+### Question 3
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q3.jpg)
 
-Provide setup documentation 
+### Question 4
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q4.jpg)
 
-- **Comment your code.**
-- Provide a readme that includes clear directions on setting up this program.
-- Questions to Consider: 
-	1. What programs do I need installed?
-	1. What are the step by step directions?
-	1. How do I run the program?
-	1. How do I know the program worked successfully?
+### Question 5
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q5.jpg)
 
-## Rubric
-
-- 7pts: Program meets all requirements described in Lab directions
-- 3pts: Code meets industry standards
-- **Readme.md required for submission. Missing readme document will result in a best score of 2/10**
+### Ending The Game
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/endgame.jpg)
