@@ -81,7 +81,7 @@ namespace Lab01_phil
                 {
                     Console.WriteLine(e.Message);
                     Console.ReadLine();
-                    return points;
+                    throw;
                 }
             } while (guesses > 0);
             if (guesses <= 0)
