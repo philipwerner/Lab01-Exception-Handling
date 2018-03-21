@@ -116,7 +116,7 @@ namespace Lab01_phil
             {
                 Console.WriteLine(e.Message);
                 Console.ReadLine();
-                return points;
+                throw;
             }
             finally
             {
