@@ -1,45 +1,62 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 1 : About Me Quiz
-=====================================
+# Lab01 Phil Werner
+## A Guessing Game
+This module is a quick guessing game about me, the developer!
+You are asked 5 questions, some are yes/no, some ask for a number. Sometimes
+you even get more than one chance!
 
-## To Submit this Assignment
+## Tools Used
+Microsoft Visual Studio Community Version 15.5.7
 
-- fork this repository
-- create a new branch named `lab01-`; + `<your name>` **e.g.** `lab01-amanda`
-- write your code
-- push to your repository
-- submit a pull request to this repository
-- submit a link to your PR in canvas
-- Include a Readme.md (contents described below)
+C#
 
-## Directions
+ASP.Net
 
-- Create an "About Me" quiz in a console application with VS2017
-- Your solution should include the following:
-    - Main method
-	- external methods- (at least 3 non-void return types)
-	- 5 different questions
-	- Exception Handling (try/catch/finally)
-	- Are you able to incorprate a `throw` somehow? 
+## Getting Started
 
-### Stretch
+Clone this repository to your local machine.
+```
+$ git clone 
+```
+Once downloaded, cd into the ```Lab01-Exception-Handling``` directory.
+```
+$ cd Lab01-Exception-Handling
+```
+The cd into ```Lab01-phil``` directory.
+```
+$ cd Lab01-phil
+```
+The cd into the second ```Lab01-phil``` directory.
+```
+$ cd Lab01-phil
+```
+Then run .NET build.
+```
+$ dotnet build
+```
+Once that is complete, run the program.
+```
+$ dotnet run
+```
 
-- Track number of correct/incorrect questions 
-      - Show the user the number of correct/incorrect to user after quiz is over
+## Codez
+Here is what the code looks like!
+### main
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/main.jpg)
 
-## ReadMe
+### Question 1
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q1.jpg)
 
-Provide setup documentation 
+### Question 2
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q2.png)
 
-- **Comment your code.**
-- Provide a readme that includes clear directions on setting up this program.
-- Questions to Consider: 
-	1. What programs do I need installed?
-	1. What are the step by step directions?
-	1. How do I run the program?
-	1. How do I know the program worked successfully?
+### Question 3
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q3.jpg)
 
-## Rubric
+### Question 4
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q4.jpg)
 
-- 7pts: Program meets all requirements described in Lab directions
-- 3pts: Code meets industry standards
-- **Readme.md required for submission. Missing readme document will result in a best score of 2/10**
+### Question 5
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/q5.jpg)
+
+### Ending The Game
+![alt text](https://github.com/philipwerner/Lab01-Exception-Handling/blob/lab01-phil/Lab01-phil/Lab01-phil/assets/endgame.jpg)
